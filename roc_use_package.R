@@ -2,7 +2,7 @@
 # ROC Curve
 library(ROCR)
 
-a=read.table("E:\\Project\\mpp\\personal\\lipiji\\pripub\\roc_pr\\toy.txt")
+a=read.table("toy.txt")
 a <- as.matrix(a)
 
 pred <- prediction(a[,1], a[,2])
