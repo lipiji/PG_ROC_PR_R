@@ -1,4 +1,4 @@
-# lipiji@baidu.com
+# lipiji.pz@gmail.com
 # Precision-Recall Curve
 
 
